@@ -1,4 +1,10 @@
-Hi there 👋, I'm Gio
+Hi, I'm Gio
 
-- 🌱 I’m currently working at TOTVS using TypeScript, Angular, PO-UI and Progress.
-- 📫 You can reach me at giovanibroliatto@gmail.com
+Full stack developer from Brazil currently working with TypeScript, Angular and Progress at TOTVS.
+
+Interested in web development, software architecture, AI integrations and continuous learning.
+
+- ⚡ TypeScript • Angular • Node.js • Java
+- 🤖 Exploring MCP, RAG, AI agents and LLM integrations
+- 🌱 Currently learning more about CI/CD and cloud
+- 📫 giovanibroliatto@gmail.com
