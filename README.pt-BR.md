@@ -11,7 +11,7 @@ Desenvolvedor full stack · Agentes de IA e integrações com LLMs · TypeScript
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| [**Respondera**](https://github.com/giobroliatto/respondera) | SaaS que idealizei, desenvolvi e coloquei no ar: extensão do Chrome que escreve respostas para avaliações do Google com IA, com assinatura paga | TypeScript, Chrome MV3, Express, Prisma, PostgreSQL, Claude API, Stripe |
+| [**Respondera**](https://github.com/giobroliatto/respondera) | Extensão do Chrome com IA para responder avaliações do Google. Antes um SaaS, agora open source | TypeScript, Chrome MV3, Express, Prisma, PostgreSQL, Claude API, Stripe |
 | [**Atendera**](https://github.com/giobroliatto/atendera) | Help desk interno em que agentes de IA fazem a triagem dos tickets, respondem perguntas sobre eles e agem sobre eles, com um humano confirmando cada alteração | Angular, Node.js, Express, Prisma, Claude API (tool use, RAG, MCP) |
 | [**EcoCenter**](https://github.com/giobroliatto/ecocenter) | Plataforma de ecopontos de reciclagem, com busca em linguagem natural usando IA | React, Node.js, Express, MongoDB, Claude API |
 | [**Sportify**](https://github.com/giobroliatto/projeto-tematico-ii-ucs) | Aplicação desktop que sorteia e conduz chaves de torneios mata-mata | Java, Swing, Hibernate, PostgreSQL |
