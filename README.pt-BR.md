@@ -13,8 +13,8 @@ Desenvolvedor full stack · Agentes de IA e integrações com LLMs · TypeScript
 |---|---|---|
 | [**Respondera**](https://github.com/giobroliatto/respondera) | Extensão do Chrome com IA para responder avaliações do Google. Antes um SaaS, agora open source | TypeScript, Chrome MV3, Express, Prisma, PostgreSQL, Claude API, Stripe |
 | [**Atendera**](https://github.com/giobroliatto/atendera) | Help desk interno em que agentes de IA fazem a triagem dos tickets, respondem perguntas sobre eles e agem sobre eles, com um humano confirmando cada alteração | Angular, Node.js, Express, Prisma, Claude API (tool use, RAG, MCP) |
+| [**PetMatch**](https://github.com/giobroliatto/petmatch) | Marketplace de serviços para pets que encontra o prestador certo para cada pet com busca vetorial e reordenação por LLM | Next.js, Fastify, Prisma, PostgreSQL + pgvector, BullMQ, Claude API |
 | [**EcoCenter**](https://github.com/giobroliatto/ecocenter) | Plataforma de ecopontos de reciclagem, com busca em linguagem natural usando IA | React, Node.js, Express, MongoDB, Claude API |
-| [**Sportify**](https://github.com/giobroliatto/projeto-tematico-ii-ucs) | Aplicação desktop que sorteia e conduz chaves de torneios mata-mata | Java, Swing, Hibernate, PostgreSQL |
 | [**WebSocket Docs**](https://github.com/giobroliatto/websocket-docs) | Editor de documentos colaborativo em tempo real | Node.js, Socket.IO, MongoDB, JWT |
 
 <details>
@@ -22,6 +22,7 @@ Desenvolvedor full stack · Agentes de IA e integrações com LLMs · TypeScript
 
 | Projeto | O que é |
 |---|---|
+| [Sportify](https://github.com/giobroliatto/projeto-tematico-ii-ucs) | Aplicação desktop que sorteia e conduz chaves de torneios mata-mata (Java, Swing, Hibernate) |
 | [nest-store](https://github.com/giobroliatto/nest-store) | API de e-commerce em NestJS com validadores assíncronos customizados |
 | [english-school-api](https://github.com/giobroliatto/english-school-api) | API com Sequelize: soft delete, escopos e transações |
 | [library-api](https://github.com/giobroliatto/library-api) | API em Express + Mongoose com tratamento centralizado de erros e paginação |

@@ -13,8 +13,8 @@ Full stack developer · AI agents & LLM integrations · TypeScript & Angular
 |---|---|---|
 | [**Respondera**](https://github.com/giobroliatto/respondera) | AI-powered Chrome extension for replying to Google reviews. Former SaaS, now open source | TypeScript, Chrome MV3, Express, Prisma, PostgreSQL, Claude API, Stripe |
 | [**Atendera**](https://github.com/giobroliatto/atendera) | Internal help desk where AI agents triage tickets, answer questions about them and act on them, with a human confirming every change | Angular, Node.js, Express, Prisma, Claude API (tool use, RAG, MCP) |
+| [**PetMatch**](https://github.com/giobroliatto/petmatch) | Pet services marketplace that matches each pet with the right provider using vector search and LLM reranking | Next.js, Fastify, Prisma, PostgreSQL + pgvector, BullMQ, Claude API |
 | [**EcoCenter**](https://github.com/giobroliatto/ecocenter) | Platform for recycling drop-off points, with natural-language search powered by AI | React, Node.js, Express, MongoDB, Claude API |
-| [**Sportify**](https://github.com/giobroliatto/projeto-tematico-ii-ucs) | Desktop app that draws and runs knockout tournament brackets | Java, Swing, Hibernate, PostgreSQL |
 | [**WebSocket Docs**](https://github.com/giobroliatto/websocket-docs) | Real-time collaborative document editor | Node.js, Socket.IO, MongoDB, JWT |
 
 <details>
@@ -22,6 +22,7 @@ Full stack developer · AI agents & LLM integrations · TypeScript & Angular
 
 | Project | What it is |
 |---|---|
+| [Sportify](https://github.com/giobroliatto/projeto-tematico-ii-ucs) | Desktop app that draws and runs knockout tournament brackets (Java, Swing, Hibernate) |
 | [nest-store](https://github.com/giobroliatto/nest-store) | E-commerce API in NestJS with custom async validators |
 | [english-school-api](https://github.com/giobroliatto/english-school-api) | API with Sequelize: soft delete, scopes and transactions |
 | [library-api](https://github.com/giobroliatto/library-api) | Express + Mongoose API with centralized error handling and pagination |
