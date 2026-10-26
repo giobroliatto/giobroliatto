@@ -2,13 +2,7 @@
 
 [English](README.md) · **Português**
 
-Desenvolvedor full stack do Brasil.
-
-**Hoje** · Desenvolvedor na TOTVS, construindo software corporativo com Angular, TypeScript e Progress.
-
-**Lancei** · O [Respondera](https://github.com/giobroliatto/respondera), um SaaS que levei da ideia até a Chrome Web Store: extensão, API, landing page e assinaturas via Stripe.
-
-**Foco** · IA dentro de produtos reais: agentes com tool use, busca com LLMs e integrações com a API do Claude.
+Desenvolvedor full stack · Agentes de IA e integrações com LLMs · TypeScript & Angular
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-giobroliatto-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giobroliatto/)
 [![Email](https://img.shields.io/badge/Email-giovanibroliatto%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:giovanibroliatto@gmail.com)

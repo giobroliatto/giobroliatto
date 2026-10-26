@@ -2,13 +2,7 @@
 
 **English** · [Português](README.pt-BR.md)
 
-Full stack developer from Brazil.
-
-**Now** · Developer at TOTVS, building enterprise software with Angular, TypeScript and Progress.
-
-**Shipped** · [Respondera](https://github.com/giobroliatto/respondera), a SaaS I took from idea to the Chrome Web Store: extension, API, landing page and Stripe subscriptions.
-
-**Focus** · AI inside real products: agents with tool use, LLM-powered search and integrations with the Claude API.
+Full stack developer · AI agents & LLM integrations · TypeScript & Angular
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-giobroliatto-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giobroliatto/)
 [![Email](https://img.shields.io/badge/Email-giovanibroliatto%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:giovanibroliatto@gmail.com)
