@@ -22,7 +22,7 @@ Full stack developer · AI agents & LLM integrations · TypeScript & Angular
 
 | Project | What it is |
 |---|---|
-| [Sportify](https://github.com/giobroliatto/projeto-tematico-ii-ucs) | Desktop app that draws and runs knockout tournament brackets (Java, Swing, Hibernate) |
+| [Sportify](https://github.com/giobroliatto/sportify) | Desktop app that draws and runs knockout tournament brackets (Java, Swing, Hibernate) |
 | [nest-store](https://github.com/giobroliatto/nest-store) | E-commerce API in NestJS with custom async validators |
 | [english-school-api](https://github.com/giobroliatto/english-school-api) | API with Sequelize: soft delete, scopes and transactions |
 | [library-api](https://github.com/giobroliatto/library-api) | Express + Mongoose API with centralized error handling and pagination |

@@ -22,7 +22,7 @@ Desenvolvedor full stack · Agentes de IA e integrações com LLMs · TypeScript
 
 | Projeto | O que é |
 |---|---|
-| [Sportify](https://github.com/giobroliatto/projeto-tematico-ii-ucs) | Aplicação desktop que sorteia e conduz chaves de torneios mata-mata (Java, Swing, Hibernate) |
+| [Sportify](https://github.com/giobroliatto/sportify) | Aplicação desktop que sorteia e conduz chaves de torneios mata-mata (Java, Swing, Hibernate) |
 | [nest-store](https://github.com/giobroliatto/nest-store) | API de e-commerce em NestJS com validadores assíncronos customizados |
 | [english-school-api](https://github.com/giobroliatto/english-school-api) | API com Sequelize: soft delete, escopos e transações |
 | [library-api](https://github.com/giobroliatto/library-api) | API em Express + Mongoose com tratamento centralizado de erros e paginação |
