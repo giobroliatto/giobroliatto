@@ -1,16 +1,17 @@
-# Oi, eu sou o Gio 👋
+# Giovani Broliatto
 
 [English](README.md) · **Português**
 
-Desenvolvedor full stack do Brasil, hoje trabalhando com TypeScript, Angular e Progress na TOTVS.
+Desenvolvedor full stack do Brasil.
 
-Me interesso por desenvolvimento web, arquitetura de software e integrações com IA. Ultimamente tenho construído produtos que colocam LLMs para resolver problemas reais: agentes com tool use e funcionalidades assistidas por IA dentro de aplicações do dia a dia.
+**Hoje** · Desenvolvedor na TOTVS, construindo software corporativo com Angular, TypeScript e Progress.
 
-- 🤖 Explorando MCP, RAG, agentes de IA e integrações com LLMs
-- 🌱 Aprendendo mais sobre CI/CD e cloud
-- 📫 giovanibroliatto@gmail.com
+**Lancei** · O [Respondera](https://github.com/giobroliatto/respondera), um SaaS que levei da ideia até a Chrome Web Store: extensão, API, landing page e assinaturas via Stripe.
+
+**Foco** · IA dentro de produtos reais: agentes com tool use, busca com LLMs e integrações com a API do Claude.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-giobroliatto-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giobroliatto/)
+[![Email](https://img.shields.io/badge/Email-giovanibroliatto%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:giovanibroliatto@gmail.com)
 
 ## Projetos em destaque
 
