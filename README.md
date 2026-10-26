@@ -17,7 +17,7 @@ I'm interested in web development, software architecture and AI integrations. La
 | Project | What it is | Stack |
 |---|---|---|
 | [**Respondera**](https://github.com/giobroliatto/respondera) | SaaS I designed, built and launched: a Chrome extension that writes replies to Google reviews with AI, with paid subscriptions | TypeScript, Chrome MV3, Express, Prisma, PostgreSQL, Claude API, Stripe |
-| [**helpdesk-ia**](https://github.com/giobroliatto/helpdesk-ia) | Help desk with four AI agents: ticket triage, chat, reports and an orchestrator that routes between them | Angular, Node.js, Express, Prisma, Claude API (tool use) |
+| [**Atendera**](https://github.com/giobroliatto/atendera) | Internal help desk where AI agents triage tickets, answer questions about them and act on them, with a human confirming every change | Angular, Node.js, Express, Prisma, Claude API (tool use, RAG, MCP) |
 | [**EcoCenter**](https://github.com/giobroliatto/ecocenter) | Platform for recycling drop-off points, with natural-language search powered by AI | React, Node.js, Express, MongoDB, Claude API |
 | [**Sportify**](https://github.com/giobroliatto/projeto-tematico-ii-ucs) | Desktop app that draws and runs knockout tournament brackets | Java, Swing, Hibernate, PostgreSQL |
 | [**WebSocket Docs**](https://github.com/giobroliatto/websocket-docs) | Real-time collaborative document editor | Node.js, Socket.IO, MongoDB, JWT |
